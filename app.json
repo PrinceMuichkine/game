@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "game1",
-    "slug": "game1",
+    "name": "game",
+    "slug": "game",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -10,7 +10,7 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.anonymous.game1"
+      "bundleIdentifier": "com.anonymous.game"
     },
     "android": {
       "adaptiveIcon": {
